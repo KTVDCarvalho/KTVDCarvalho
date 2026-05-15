@@ -11,13 +11,11 @@
 
 <br/>
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=200&size=36&duration=4000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Kiniame+Carvalho" alt="Name" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=38&duration=3500&pause=999999&color=64FFDA&center=true&vCenter=true&width=620&lines=Kiniame+Carvalho" alt="Kiniame Carvalho" />
 
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=3000&pause=1200&color=64FFDA&center=true&vCenter=true&width=540&lines=Full+Stack+Developer;Java+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Building+clean%2C+purposeful+software." alt="Role" />
-</h3>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=300&size=16&duration=2600&pause=600&color=64FFDA&center=true&vCenter=true&width=560&lines=Full+Stack+Developer;Java+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Building+clean%2C+purposeful+software.;Tokio+School+%C2%B7+Certified+2026" alt="Subtitle" />
 
 <br/>
 
